@@ -1,5 +1,2 @@
 /node_modules
 accounts.json
-
-# remover caso queira modificar este arquivo para que ele possa ser rastreado pelo git
-.gitignore
